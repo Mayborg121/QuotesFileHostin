@@ -1,6 +1,6 @@
 # Quotes Repository
 
-This repository contains a large collection of over 1500 inspiring, motivational, and thought-provoking quotes, stored in a well-structured JSON file. Each quote is paired with the author’s name, making it easy to display random quotes along with their attribution. The quotes cover a wide range of topics, including success, life, perseverance, and more—making it a great resource for web applications, websites, or personal projects that aim to inspire and motivate users.
+This repository contains a large collection of over 1500+ inspiring, motivational, and thought-provoking quotes, stored in a well-structured JSON file. Each quote is paired with the author’s name, making it easy to display random quotes along with their attribution. The quotes cover a wide range of topics, including success, life, perseverance, and more—making it a great resource for web applications, websites, or personal projects that aim to inspire and motivate users.
 
 The JSON format is simple and easy to parse, making it perfect for developers to quickly integrate quotes into their applications. Whether you're building a quote generator, a daily inspiration tool, or just looking for a way to add meaningful content to your project, this repository has you covered.
 
