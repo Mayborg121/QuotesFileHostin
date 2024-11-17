@@ -9,7 +9,7 @@ This repository contains a collection of 1500+ inspirational and thought-provoki
 
 The JSON file stores each quote as an object with the following structure:
 
-```json
+```
 [
   {
     "Author": "Thomas Edison",
@@ -67,4 +67,3 @@ Feel free to clone the repository and integrate it into your projects!
 This repository is open source and available under the [MIT License](LICENSE).
 ```
 
-Let me know if you'd like any changes or additions to the `README.md`!
